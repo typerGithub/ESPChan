@@ -17,7 +17,7 @@ Open a Arduino IDE on your PC
 Execute this command to clone repo:
 
 ```text
-git clone https://github.com/typerGithub/ESPGardening.git
+git clone https://github.com/typerGithub/ESPChan.git
 ```
 
 Open a code in Arduino IDE  
