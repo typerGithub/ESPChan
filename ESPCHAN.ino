@@ -8,8 +8,8 @@
 #include <map>
 
 // Замени на свои данные WiFi сети
-const char* ssid = "new";
-const char* password = "3868287633438";
+const char* ssid = "your_SSID";
+const char* password = "your_PASSWORD";
 
 // Создание экземпляра веб-сервера
 AsyncWebServer server(80);
