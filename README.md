@@ -43,7 +43,7 @@ ESPChan это альтернатива 4Chan для esp32
 
 
 ```text
-git clone https://github.com/typerGithub/ESPGardening.git
+git clone https://github.com/typerGithub/ESPChan.git
 ```
 
 
