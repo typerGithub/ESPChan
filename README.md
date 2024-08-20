@@ -21,3 +21,30 @@ git clone https://github.com/typerGithub/ESPChan.git
 ```
 
 Open a code in Arduino IDE  
+
+# Что это такое?
+
+ESPChan это альтернатива 4Chan для esp32
+
+# Установка на ESP32
+**Что необходимо установки на ESP32**
+* ESP32 плата
+* Установленный Arduino IDE
+* Установленный git
+
+
+Сначала подключите плату ESP32 к ПК
+
+
+Откройте Arduino IDE на ПК
+
+
+Выполните эту команду, чтобы клонировать репозиторий:
+
+
+```text
+git clone https://github.com/typerGithub/ESPGardening.git
+```
+
+
+Откройте код в Arduino IDE
