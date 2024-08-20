@@ -181,7 +181,8 @@ void setup() {
     categories["Программирование"] = "";
     categories["Arduino"] = "";
     categories["ESP32"] = "";
-
+    categories["Аниме"] = "";
+    
     // Обработка запросов
     server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){
         request->send(200, "text/html", htmlPage);
